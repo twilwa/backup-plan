@@ -1,0 +1,2 @@
+https://gist.github.com/twilwa/e3f3f4575f259b7b858f6b7cf392e6c5 how 2 make branches go on the website, or fix your local after you add a new branch on the website
+https://colab.research.google.com/drive/1Rm9TK7eZyryKOIAeRRa7H0T9NhU-od5I#scrollTo=RVMmwsa8TCB0 how to safely manage env vars on jupyter
