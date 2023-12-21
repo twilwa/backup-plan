@@ -22,10 +22,10 @@ If applicable for your usecase, choose an example notebook from 'quickstart', th
 
 CONTRIBUTING:
 
-Additional notebooks which are incomplete and require modifications, can be deposited into the 'notebooks' folder under the appropriate vendor name via pull request. Any completed evaluation data should be deposited into the 'completed-eval-data/outputs' folder for review. The name of the corresponding notebook (which, upon completion, should be deposited into the 'completed-eval-data/notebooks' folder) should be identical to the name of the notebook with the suffix '-data'.
+Additional notebooks which are incomplete and require modifications (i.e. ones you found somewhere that would be cool to run evals on), can be deposited into the 'notebooks' folder under the appropriate vendor name via pull request. Any completed evaluation data should be deposited into the 'completed-eval-data/outputs' folder for review. The name of the corresponding notebook (which, after being successfully modified & confirmed to run as-is, should be deposited into the 'completed-eval-data/notebooks' folder) should be identical to the name of the notebook with the suffix '-data'.
 
-Before beginning notebook modification, create an issue in the repo for visibility.
+Before beginning notebook modification, create an issue in the repo for visibility, or fork this repo and do the same for your team. If you use this repository as a template, be sure to set your upstream to your submission repository rather than this one!
 
-Please create an issue if any part of these instructions are unclear, or if you need assistance clearing a blocker to complete your eval.
+Please create an issue if any part of these instructions are unclear, or (if i'm on your team :P) if you need assistance clearing a blocker to complete your eval.
 
 GG everybody!
