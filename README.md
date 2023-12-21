@@ -29,3 +29,6 @@ Before beginning notebook modification, create an issue in the repo for visibili
 Please create an issue or submit a PR with your fix if any part of these instructions are unclear, or (if i'm on your team :P) if you need assistance clearing a blocker to complete your eval.
 
 GG everybody!
+
+FURTHER READING:
+I'll include 'why did nobody tell me how to do this earlier' materials into the notebooks/tutorials section. Feel free to contribute there as well!
