@@ -1,8 +1,4 @@
 # backup-plan
-well this looked like fun
-
-'Datatonic' contains evaluation files and information from the original repo.
-
 'Notebooks' contain notebooks related to multimodal Weaviate and Neo4j RAG pipelines; these might be interesting candidates for trulens evals.
 
 'trulens' contains the contents of the 'trulens-eval' folder found at https://github.com/truera/trulens/tree/main/trulens_eval.
@@ -26,9 +22,8 @@ Additional notebooks which are incomplete and require modifications (i.e. ones y
 
 Before beginning notebook modification, create an issue in the repo for visibility, or fork this repo and do the same for your team. If you use this repository as a template, be sure to set your upstream to your submission repository rather than this one!
 
-Please create an issue or submit a PR with your fix if any part of these instructions are unclear, or (if i'm on your team :P) if you need assistance clearing a blocker to complete your eval.
-
 GG everybody!
 
 FURTHER READING:
 I'll include 'why did nobody tell me how to do this earlier' materials into the notebooks/tutorials section. Feel free to contribute there as well!
+
