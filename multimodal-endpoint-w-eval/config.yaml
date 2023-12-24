@@ -1,0 +1,6 @@
+gemini:
+  api_key: ''
+  location: ''
+  project_id: ''
+openai:
+  api_key: ''
